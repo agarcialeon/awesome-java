@@ -14,6 +14,7 @@ A curated list of awesome Java frameworks, libraries and software.
   - [Code Analysis](#code-analysis)
   - [Code Coverage](#code-coverage)
   - [Code Generators](#code-generators)
+  - [Code Style Guides](#code-style-guides)
   - [Compiler-compiler](#compiler-compiler)
   - [Configuration](#configuration)
   - [Constraint Satisfaction Problem Solver](#constraint-satisfaction-problem-solver)
@@ -183,6 +184,11 @@ A curated list of awesome Java frameworks, libraries and software.
 - [JHipster](https://github.com/jhipster/generator-jhipster) - Yeoman source code generator for Spring Boot and AngularJS.
 - [Joda-Beans](http://www.joda.org/joda-beans) - Small framework that adds queryable properties to Java, enhancing JavaBeans.
 - [Lombok](https://projectlombok.org) - Code generator that aims to reduce verbosity.
+
+### Code Style Guides
+
+- [Google's Java Style Guide](https://checkstyle.org/styleguides/google-java-style-20180523/javaguide.html) - Official code style guide from Google.
+- [Sun Microsystems Style Guide](https://checkstyle.org/styleguides/sun-code-conventions-19990420/CodeConvTOC.doc.html) - Sun Microsystems code style guide.
 
 ### Compiler-compiler
 
@@ -1051,17 +1057,21 @@ A curated list of awesome Java frameworks, libraries and software.
 
 *Awesome lists related to the Java & JVM ecosystem.*
 
+- [Java Developer Roadmap](https://github.com/s4kibs4mi/java-developer-roadmap)
 - [Awesome Annotation Processing](https://github.com/gunnarmorling/awesome-annotation-processing)
 - [Awesome Gradle Plugins](https://github.com/ksoichiro/awesome-gradle)
-- [AwesomeJavaFX](https://github.com/mhrimaz/AwesomeJavaFX)
+- [Awesome JavaFX](https://github.com/mhrimaz/AwesomeJavaFX)
 - [Awesome JVM](https://github.com/deephacks/awesome-jvm)
 - [Awesome Microservices](https://github.com/mfornos/awesome-microservices)
 - [Awesome REST](https://github.com/marmelab/awesome-rest)
 - [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium)
-- [ciandcd](https://github.com/ciandcd/awesome-ciandcd)
-- [Useful Java Links](https://github.com/Vedenin/useful-java-links)
+- [Awesome ciandcd](https://github.com/ciandcd/awesome-ciandcd)
+- [Awesome Eclipse](https://github.com/hrj/awesome-eclipse) - Awesome list for Eclipse IDE.
+- [Awesome RxJava](https://github.com/eleventigers/awesome-rxjava) - Awesome list for RxJava.
+- [Awesome IntelliJ](https://github.com/maksimr/awesome-intellij) - A community driven list of useful Intellij IDEA plugins, libraries and others.
+- [Awesome Jetbrains](https://github.com/championswimmer/awesome-jetbrains) - A collection of awesome Fonts and Color Schemes to be used in Jetbrains IDEs.
 - [Java Concurrency Checklist](https://github.com/code-review-checklists/java-concurrency)
-- [Java Developer Roadmap](https://github.com/s4kibs4mi/java-developer-roadmap)
+- [Useful Java Links](https://github.com/Vedenin/useful-java-links)
 
 ### Communities
 
