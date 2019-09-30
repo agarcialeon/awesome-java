@@ -9,6 +9,7 @@ A curated list of awesome Java frameworks, libraries and software.
   - [Build](#build)
   - [Bytecode Manipulation](#bytecode-manipulation)
   - [Caching](#caching)
+  - [Continuous delivery (CD)](#continuous-delivery)
   - [CLI](#cli)
   - [Cluster Management](#cluster-management)
   - [Code Analysis](#code-analysis)
@@ -58,6 +59,7 @@ A curated list of awesome Java frameworks, libraries and software.
   - [Processes](#processes)
   - [Reactive libraries](#reactive-libraries)
   - [REST Frameworks](#rest-frameworks)
+  - [Runtimes](#runtimes)
   - [Science](#science)
   - [Search](#search)
   - [Security](#security)
@@ -123,6 +125,12 @@ A curated list of awesome Java frameworks, libraries and software.
 - [Caffeine](https://github.com/ben-manes/caffeine) - High-performance, near-optimal caching library.
 - [Ehcache](http://www.ehcache.org) - Distributed general-purpose cache.
 - [Infinispan](http://infinispan.org) - Highly concurrent key/value datastore used for caching.
+
+### Continuous Delivery
+
+*Libraries for everything related to continuous delivery.*
+
+- [Spinnaker](https://www.spinnaker.io/) -  Continuous Delivery for Enterprise fast, safe and repeatable deployments.
 
 ### CLI
 
@@ -829,6 +837,10 @@ A curated list of awesome Java frameworks, libraries and software.
 - [Spark](http://sparkjava.com) - Sinatra inspired framework.
 - [Crnk](http://www.crnk.io) - Implementation of the JSON API specification to build resource-oriented REST endpoints with sorting, filtering, paging, linking, object graphs, type-safety, bulk updates, integrations and more.
 - [Swagger](https://swagger.io) - Standard, language-agnostic interface to REST APIs.
+
+### Runtimes
+
+- [Zing](https://www.azul.com/products/zing/) - The best Java runtime for business-critical applications. Zing® is ideal for systems that require predictable performance and pauseless operation.
 
 ### Science
 
