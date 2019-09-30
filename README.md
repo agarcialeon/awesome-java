@@ -71,6 +71,7 @@ A curated list of awesome Java frameworks, libraries and software.
   - [Version Managers](#version-managers)
   - [Web Crawling](#web-crawling)
   - [Web Frameworks](#web-frameworks)
+  - [Others](#others)
 - [Resources](#resources)
   - [Awesome Lists](#awesome-lists)
   - [Communities](#communities)
@@ -1062,6 +1063,11 @@ A curated list of awesome Java frameworks, libraries and software.
 - [Ratpack](https://ratpack.io) - Set of libraries that facilitate fast, efficient, evolvable and well-tested HTTP applications.
 - [Takes](https://github.com/yegor256/takes) - Opinionated web framework which is built around the concepts of True Object-Oriented Programming and immutability.
 - [Vaadin Flow](https://vaadin.com/flow) - Event-driven framework that uses standard web components. Server-side architecture with Ajax on the client side.
+
+### Others
+
+- [Quartz Scheduler](https://github.com/quartz-scheduler/quartz) - A richly featured, open source job scheduling library that can be integrated within virtually any Java application - from the smallest stand-alone application to the largest e-commerce system.
+- [VisualVM](https://visualvm.github.io/) -  A visual tool integrating commandline JDK tools and lightweight profiling capabilities. Designed for both development and production time use. 
 
 ## Resources
 
