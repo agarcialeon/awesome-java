@@ -34,6 +34,7 @@ A curated list of awesome Java frameworks, libraries and software.
   - [Game Development](#game-development)
   - [Geospatial](#geospatial)
   - [GUI](#gui)
+  - [Hashing](#hashing)
   - [High Performance](#high-performance)
   - [HTTP Clients](#http-clients)
   - [Hypermedia Types](#hypermedia-types)
@@ -312,6 +313,7 @@ A curated list of awesome Java frameworks, libraries and software.
 - [Guice](https://github.com/google/guice) - Lightweight and opinionated framework that completes Dagger.
 - [HK2](https://javaee.github.io/hk2) - Lightweight and dynamic dependency injection framework.
 - [JayWire](https://github.com/vanillasource/jaywire) - Lightweight dependency injection framework.
+- [Tiger](https://github.com/googlearchive/tiger) - Fastest java dependency injection framework. (Archived)
 
 ### Development
 
@@ -438,6 +440,12 @@ A curated list of awesome Java frameworks, libraries and software.
 - [JavaFX](https://www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html) - The successor of Swing.
 - [Scene Builder](https://gluonhq.com/open-source/scene-builder) - Visual layout tool for JavaFX applications.
 - [SWT](https://www.eclipse.org/swt) - The Standard Widget Toolkit, a graphical widget toolkit.
+
+### Hashing
+
+- [Lz4-java](https://www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html) - LZ4 compression for Java.
+- [xxHash](https://gluonhq.com/open-source/scene-builder) - Extremely fast non-cryptographic hash algorithm.
+- [Zero-Allocation-Hashing](https://www.eclipse.org/swt) - Zero-allocation hashing for Java.
 
 ### High Performance
 
@@ -1076,6 +1084,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 - [Quartz Scheduler](https://github.com/quartz-scheduler/quartz) - A richly featured, open source job scheduling library that can be integrated within virtually any Java application - from the smallest stand-alone application to the largest e-commerce system.
 - [VisualVM](https://visualvm.github.io/) -  A visual tool integrating commandline JDK tools and lightweight profiling capabilities. Designed for both development and production time use. 
+
 
 ## Resources
 
