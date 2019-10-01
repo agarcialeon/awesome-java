@@ -1,6 +1,26 @@
 # Awesome Java [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome Java frameworks, libraries and software.
+<div align="center">
+	<div>
+		<h1>Awesome Java</h1>		
+		<a href="https://github.com/sindresorhus/awesome"> 
+			<img src="https://awesome.re/badge-flat.svg" alt="Awesome">
+		</a>					
+		<p>
+			A curated list of awesome Java frameworks, libraries and software.
+			<br>
+			Free assets and resources are prioritized over paid when possible.
+			<br><br>
+			Suggestions and contributions are always welcome!
+			<br>			
+			Make sure to read the <a href="https://github.com/agarcialeon/awesome-java/blob/master/CONTRIBUTING.md"> contribution guidelines </a> for more information before submitting a pull request.
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/cc-by.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/cc-sa.svg)](https://forthebadge.com)
+		</p>
+	</div>
+</div>
 
 ## Contents
 
