@@ -1,5 +1,3 @@
-# Awesome Java [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 <div align="center">
 	<div>
 		<h1>Awesome Java</h1>		
