@@ -149,6 +149,11 @@ A curated list of awesome Java frameworks, libraries and software.
 - [picocli](http://picocli.info) - ANSI colors and styles in usage help with annotation-based POSIX/GNU/any syntax, subcommands, strong typing for both options and positional args.
 - [Text-IO](https://github.com/beryx/text-io) - Aids the creation of full console-based applications.
 - [Lanterna](https://github.com/mabe02/lanterna) - Easy console text-GUI library, similar to curses.
+- [Barclay](https://github.com/broadinstitute/barclay) - Command line argument parser and online documentation generation utilities.
+- [CLI Toolbelt](https://github.com/rundeck/cli-toolbelt) - Annotation based command line builder with support for git-like subcommands, basic argument parsing and works with others like JewelCLI.
+- [CmdOption](https://github.com/ToToTec/CmdOption) - Simple annotation-driven command line parser.
+- [Commandline](https://github.com/jankroken/commandline) - Annotation based command line parser.
+- [JewelCLI](https://github.com/lexicalscope/jewelcli/) - Annotated interface to automatically parse and present command line arguments.
 
 ### Cluster Management
 
