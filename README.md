@@ -88,6 +88,11 @@ A curated list of awesome Java frameworks, libraries and software.
 
 ## Projects
 
+### AOT Compilers
+
+- [Excelsior JET](https://www.excelsiorjet.com) - Provides fluent API for typesafe domain model validation and mapping. It uses annotations, code generation and a type safe DSL to make bean validation and mapping fast and easy. ([Gradle plugin here](https://github.com/excelsior-oss/excelsior-jet-gradle-plugin))
+- [GraalVM AOT compiler](https://www.oracle.com/technetwork/graalvm/overview/index.html) - Provides fluent API for typesafe domain model validation and mapping. It uses annotations, code generation and a type safe DSL to make bean validation and mapping fast and easy.
+   
 ### Bean Mapping
 
 *Frameworks that ease bean mapping.*
@@ -120,7 +125,8 @@ A curated list of awesome Java frameworks, libraries and software.
 - [cglib](https://github.com/cglib/cglib) - Bytecode generation library.
 - [Javassist](https://jboss-javassist.github.io/javassist) - Tries to simplify bytecode editing.
 - [Mixin](https://github.com/SpongePowered/Mixin) - Manipulate bytecode at runtime using real Java code.
-- [Perses](https://github.com/nicolasmanic/perses) - Dynamically injects failure/latency at the bytecode level according to principles of chaos engineering. 
+- [Perses](https://github.com/nicolasmanic/perses) - Dynamically injects failure/latency at the bytecode level according to principles of chaos engineering.
+- [Allocation instrumenter](https://github.com/google/allocation-instrumenter) - Java agent that rewrites bytecode to instrument allocation sites.
 
 ### Caching
 
@@ -295,6 +301,13 @@ A curated list of awesome Java frameworks, libraries and software.
 - [Xodus](https://jetbrains.github.io/xodus) - Highly concurrent transactional schema-less and ACID-compliant embedded database.
 - [Apache Cassandra](http://cassandra.apache.org/) - Apache Cassandra is a distributed column-oriented database providing high availability with no single point of failure.
 - [Apache HBase](http://hbase.apache.org/) - Apache HBase is the Hadoop database, a distributed, scalable, big data store.
+- [Derby](https://db.apache.org/derby/) - Open source relational database implemented entirely in Java.
+- [Gaffer](https://github.com/gchq/Gaffer) - Large-scale entity and relation database supporting aggregation of properties.
+- [HSQLDB](https://sourceforge.net/p/hsqldb/hsqldb/ref/master/) - HSQLDB (Hyper SQL Database) is a relational database management system written in Java, offering a fast, small database engine which offers both in-memory and disk-based tables.
+- [LevelDB](https://github.com/dain/leveldb) - Port of LevelDB to Java.
+- [PalDB](https://github.com/linkedin/PalDB) - Embeddable write-once key-value store written in Java.
+- [Lmdb-jni](https://github.com/chirino/lmdbjni) - Lightning Memory-Mapped Database.
+- [Cqengine](https://github.com/npgall/cqengine) - NoSQL collection indexing and query engine with ultra-low latency.
 
 ### Data Structures
 
@@ -321,6 +334,7 @@ A curated list of awesome Java frameworks, libraries and software.
 - [ThreeTen-Extra](https://github.com/ThreeTen/threeten-extra) - Additional date-time classes that complement those in JDK 8.
 - [Time4J](https://github.com/MenoData/Time4J) - Advanced date and time library.
 - [Joda Time](https://www.joda.org/joda-time/) - De facto standard date/time-library before Java 8.
+- [Goodtimes](https://github.com/bdkosher/goodtimes) - Java 8 Date/Time API enhancements for Groovy.
 
 ### Dependency Injection
 
@@ -676,6 +690,9 @@ A curated list of awesome Java frameworks, libraries and software.
 - [OctoLinker](https://github.com/OctoLinker/browser-extension) - Browser extension which allows to navigate through code on GitHub more efficiently.
 - [Fabric8](http://fabric8.io/) - Integration platform for Java containers.
 - [RoboVM](https://github.com/MobiVM/robovm) - Ahead of time compiler for JVM bytecode targetting iOS, Mac OSX and Linux.
+- [jOOR](https://github.com/jOOQ/jOOR) - Fluent Reflection in Java.
+- [Permit-reflect](https://github.com/nqzero/permit-reflect) - Permit reflective access for java 11.
+- [OKIO](https://github.com/square/OKIO) - A modern I/O API for Java.
 
 ### Microservice
 
@@ -806,6 +823,7 @@ A curated list of awesome Java frameworks, libraries and software.
 - [LatencyUtils](https://github.com/LatencyUtils/LatencyUtils) - Utilities for latency measurement and reporting.
 - [XRebel ![c]](https://zeroturnaround.com/software/xrebel) - Real-time profiling for web applications, with an in-browser widget.
 - [YourKit Java Profiler ![c]](https://www.yourkit.com/features) - Profiler for any application running on the JVM.
+- [Arthas](https://www.yourkit.com/features) - Alibaba Java Profiling and Diagnostic Tool Arthas.
 
 ### Platform
 
@@ -874,7 +892,6 @@ A curated list of awesome Java frameworks, libraries and software.
 - [CUBA Platform](https://cuba-platform.com) - High-level framework for developing enterprise applications with a rich web interface, based on Spring, EclipseLink and Vaadin.
 - [Light-Java](https://github.com/networknt/light-java) - A fast, lightweight and productive microservices framework with built-in [security](https://github.com/networknt/light-oauth2).
 - [Orienteer](https://github.com/OrienteerBAP/Orienteer) - Open-source business application platform for rapid configuration/development of CRM, ERP, LMS and other applications.
-- [Spring](https://spring.io/projects) - Provides many packages for dependency injection, aspect-oriented programming, security, etc.
 
 ### Processes
 
@@ -917,6 +934,9 @@ A curated list of awesome Java frameworks, libraries and software.
 ### Runtimes
 
 - [Zing](https://www.azul.com/products/zing/) - The best Java runtime for business-critical applications. Zing® is ideal for systems that require predictable performance and pauseless operation.
+- [Drip](https://github.com/ninjudd/drip) - Fast JVM launching without the hassle of persistent JVMs.
+- [RelProxy](https://github.com/jmarranz/relproxy/) - Java and Groovy hot class reloader and Java based shell and scripting.
+- [Classgraph](https://github.com/classgraph/classgraph) - Uber-fast, ultra-lightweight Java classpath scanner (formerly FastClasspathScanner).
 
 ### Science
 
@@ -1122,6 +1142,16 @@ A curated list of awesome Java frameworks, libraries and software.
 - [Underscore-java](https://github.com/javadev/underscore-java) - Port of Underscore.js functions.
 - [RE2/J](https://github.com/google/re2j) - Linear time regular expression matching in Java.
 - [Java Tuples](https://www.javatuples.org/) - Does what it says, although the concept of tuples in general is debatable.
+- [Bloofi](https://github.com/lemire/bloofi) - Multidimensional Bloom filters.
+- [Docker-java](https://github.com/docker-java/docker-java) - Java Docker API Client.
+- [java-string-similarity](https://github.com/tdebatty/java-string-similarity) - Various string similarity and distance algorithms.debatable.
+- [ConcurrentLinkedHashMap](https://github.com/ben-manes/concurrentlinkedhashmap) - ConcurrentLinkedHashMap for Java.
+- [Concurrent-trees](https://github.com/npgall/concurrent-trees) - Concurrent Radix Trees and Concurrent Suffix Trees for Java.
+- [Java-concurrent-hash-trie-map](https://github.com/romix/java-concurrent-hash-trie-map) - Concurrent trie hash map implementation.
+- [LArray](https://github.com/xerial/larray) - Large off-heap arrays and memory-mapped file (mmap).
+- [LMAXCollections](https://github.com/LMAX-Exchange/LMAXCollections) - LMAX Collections.
+- [Radix-tree](https://github.com/thegedge/radix-tree) - Radix tree data structure that adheres to the java.util.Map interface.
+- [Vmlens](https://github.com/vmlens/executor-service) - ExecutorService supporting multiple writing and a single reading thread.
 
 ### Version Managers
 
