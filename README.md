@@ -213,6 +213,8 @@ A curated list of awesome Java frameworks, libraries and software.
 - [ANTLR](http://www.antlr.org) - Complex full-featured framework for top-down parsing.
 - [JavaCC](https://javacc.org) - Parser generator that generates top-down parsers. Allows lexical state switching and permits extended BNF specifications.
 - [JFlex](http://jflex.de) - A lexical analyzer generator.
+- [In Memory ANTLR](https://github.com/julianthome/inmemantlr) - In Memory compilation of ANTLR grammars.
+- [Groovy Parrot](https://github.com/danielsun1106/groovy-parser) - Brand new parser for Groovy programming language.
 
 ### Configuration
 
@@ -927,8 +929,12 @@ A curated list of awesome Java frameworks, libraries and software.
 - [FlatBuffers](https://github.com/google/flatbuffers) - Memory-efficient serialization library that can access serialized data without unpacking and parsing it.
 - [FST](https://github.com/RuedigerMoeller/fast-serialization) - JDK-compatible, high-performance object graph serialization.
 - [Kryo](https://github.com/EsotericSoftware/kryo) - Fast and efficient object graph serialization framework.
+- [Kryo Serializers](https://github.com/magro/kryo-serializers) - More kryo serializers.
 - [MessagePack](https://github.com/msgpack/msgpack-java) - Efficient binary serialization format.
 - [PHP Serializer](https://github.com/marcospassos/java-php-serializer) - Serializing objects in the PHP serialization format.
+- [Blixtser](https://github.com/Mojang/blixtser) - Fast Serialization library.
+- [Fast Serialization (FST)](https://github.com/RuedigerMoeller/fast-serialization) - Fast java serialization drop in-replacement.
+- [Ion](https://github.com/amzn/ion-java) - Java streaming parser/serializer for Ion.
 
 ### Server
 
