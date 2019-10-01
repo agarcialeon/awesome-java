@@ -29,6 +29,7 @@ A curated list of awesome Java frameworks, libraries and software.
   - [Distributed Transactions](#distributed-transactions)
   - [Distribution](#distribution)
   - [Document Processing](#document-processing)
+  - [File System](#file-system)
   - [Formal Verification](#formal-verification)
   - [Functional Programming](#functional-programming)
   - [Game Development](#game-development)
@@ -387,6 +388,16 @@ A curated list of awesome Java frameworks, libraries and software.
 - [documents4j](http://documents4j.com) - API for document format conversion using third-party converters such as MS Word.
 - [docx4j](https://www.docx4java.org/trac/docx4j) - Create and manipulate Microsoft Open XML files.
 - [zerocell](https://github.com/creditdatamw/zerocell) - Annotation-based API for reading data from Excel sheets into POJOs with focus on reduced overhead.
+
+### File System
+
+- [Amazon S3 FileSystem NIO2](https://github.com/Upplication/Amazon-S3-FileSystem-NIO2) - S3 File System Provider for Java 7.
+- [Fuse JNA](https://github.com/EtiennePerot/fuse-jna) - Java bindings to FUSE using JNA.
+- [Javafs](https://github.com/puniverse/javafs) - Java filesystems as FUSE (++).
+- [Jimfs](https://github.com/google/jimfs) - In-memory file system for Java 7+.
+- [Jsr203 Hadoop](https://github.com/damiencarol/jsr203-hadoop) - Java NIO file system provider for HDFS.
+- [Nfs4j](https://github.com/dCache/nfs4j) - Pure Java NFSv3 and NFSv4.1 implementation.
+- [Alluxio](https://github.com/Alluxio/alluxio) - Data orchestration for analytics and machine learning in the cloud.
 
 ### Formal Verification
 
