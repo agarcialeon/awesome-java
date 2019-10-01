@@ -412,6 +412,7 @@
 
 - [Atomikos](https://www.atomikos.com) - Provides transactions for REST, SOA and microservices with support for JTA and XA.
 - [Bitronix](https://github.com/bitronix/btm) - A simple but complete implementation of the JTA 1.1 API.
+- [Narayana](http://narayana.io) - Provides support for traditional ACID and compensation transactions, also complies with JTA, JTS and other standards.
 
 ### Distribution
 
@@ -820,7 +821,7 @@
 
 - [Apache FOP](https://xmlgraphics.apache.org/fop) - Creates PDFs from XSL-FO.
 - [Apache PDFBox](https://pdfbox.apache.org) - Toolbox for creating and manipulating PDFs.
-- [Dynamic Jasper](https://github.com/dynamicreports/dynamicreports) - Abstraction layer to JasperReports.
+- [Dynamic Jasper](http://dynamicjasper.com/) - Abstraction layer to JasperReports.
 - [DynamicReports](https://github.com/dynamicreports/dynamicreports) - Simplifies JasperReports.
 - [flyingsaucer](https://github.com/flyingsaucerproject/flyingsaucer) - XML/XHTML and CSS 2.1 renderer.
 - [iText ![c]](https://itextpdf.com) - Creates PDF files programmatically.
