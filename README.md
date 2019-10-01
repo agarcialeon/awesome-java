@@ -848,6 +848,7 @@ A curated list of awesome Java frameworks, libraries and software.
 - [Reactor](https://projectreactor.io) - Library for building reactive fast-data applications.
 - [RxJava](https://github.com/ReactiveX/RxJava) - Allows for composing asynchronous and event-based programs using observable sequences.
 - [vert.x](http://vertx.io) - Polyglot event-driven application framework.
+- [JDeferred](https://github.com/jdeferred/jdeferred) - Java Deferred/Promise library similar to JQuery.
 
 ### REST Frameworks
 
@@ -999,6 +1000,7 @@ A curated list of awesome Java frameworks, libraries and software.
 - [JUnit](http://junit.org) - Common testing framework.
 - [Pact JVM](https://github.com/DiUS/pact-jvm) - Consumer-driven contract testing.
 - [PIT](http://pitest.org) - Fast mutation-testing framework for evaluating fault-detection abilities of existing JUnit or TestNG test suites.
+- [Spock](https://github.com/spockframework/spock) - Enterprise-ready testing and specification framework.
 
 #### Matchers
 
@@ -1016,6 +1018,7 @@ A curated list of awesome Java frameworks, libraries and software.
 - [raml-tester](https://github.com/nidi3/raml-tester) - Tests if a request/response matches a given RAML definition.
 - [TestContainers](https://github.com/testcontainers/testcontainers-java) - Provides throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [pojo-tester](http://www.pojo.pl) - Automatically performs tests on basic POJO methods.
+- [Overcast](https://github.com/xebialabs/overcast) - Helper classes to write your tests against hosts in the cloud.
 
 #### Mocking
 
@@ -1027,6 +1030,8 @@ A curated list of awesome Java frameworks, libraries and software.
 - [Moco](https://github.com/dreamhead/moco) - Concise web services for stubs and mocks.
 - [PowerMock](https://github.com/jayway/powermock) - Mocks static methods, constructors, final classes and methods, private methods, and removal of static initializers.
 - [WireMock](http://wiremock.org) - Stubs and mocks web services.
+- [βetamax](https://github.com/betamaxteam/betamax) - Tool for mocking external HTTP web services and REST APIs.
+- [Ersatz](http://stehno.com/ersatz/) - Mock HTTP server for testing client code.
 
 #### Parameterization
 
@@ -1054,6 +1059,7 @@ A curated list of awesome Java frameworks, libraries and software.
 - [minio-java](https://github.com/minio/minio-java) - Provides simple APIs to access any Amazon S3-compatible object storage server.
 - [Protégé](https://protege.stanford.edu) - Provides an ontology editor and a framework to build knowledge-based systems.
 - [Underscore-java](https://github.com/javadev/underscore-java) - Port of Underscore.js functions.
+- [RE2/J](https://github.com/google/re2j) - Linear time regular expression matching in Java.
 
 ### Version Managers
 
