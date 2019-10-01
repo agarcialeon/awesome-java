@@ -45,6 +45,7 @@ A curated list of awesome Java frameworks, libraries and software.
   - [JVM and JDK](#jvm-and-jdk)
   - [Logging](#logging)
   - [Machine Learning](#machine-learning)
+  - [Math](#math)  
   - [Messaging](#messaging)
   - [Microservice](#microservice)
   - [Miscellaneous](#miscellaneous)
@@ -573,6 +574,12 @@ A curated list of awesome Java frameworks, libraries and software.
 - [Smile](https://haifengl.github.io/smile) - The Statistical Machine Intelligence and Learning Engine provides a set of machine learning algorithms and a visualization library.
 - [Weka](https://www.cs.waikato.ac.nz/ml/weka) - Collection of algorithms for data mining tasks ranging from pre-processing to visualization.
 
+### Math
+
+- [Jblas](https://github.com/jblas-project/jblas) - Linear Algebra for Java.
+- [FastR](https://github.com/allr/purdue-fastr) - R language intepreter.
+- [Renjin](https://github.com/bedatadriven/renjin) - JVM-based interpreter for the R language.
+
 ### Messaging
 
 *Tools that help send messages between clients to ensure protocol independency.*
@@ -591,6 +598,8 @@ A curated list of awesome Java frameworks, libraries and software.
 - [RabbitMQ Java client](https://github.com/rabbitmq/rabbitmq-java-client) - RabbitMQ client.
 - [Smack](https://github.com/igniterealtime/Smack) - Cross-platform XMPP client library.
 - [NATS client](https://github.com/nats-io/java-nats) - NATS client.
+- [MBassador](https://github.com/bennidi/mbassador) - Event bus aiming at ease of use and performance.
+- [Mappedbus](https://github.com/caplogic/Mappedbus) - Library for low latency IPC between multiple Java processes/JVMs.
 
 ### Miscellaneous
 
