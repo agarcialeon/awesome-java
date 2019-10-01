@@ -471,6 +471,8 @@ A curated list of awesome Java frameworks, libraries and software.
 - [Retrofit](https://square.github.io/retrofit) - Typesafe REST client.
 - [Ribbon](https://github.com/Netflix/ribbon) - Client-side IPC library that is battle-tested in cloud.
 - [Riptide](https://github.com/zalando/riptide) - Client-side response routing for Spring's RestTemplate.
+- [Http-builder-ng](https://github.com/http-builder-ng/http-builder-ng) - The Easy Http Client for Groovy.
+- [Unirest](http://kong.github.io/unirest-java/) - Lightweight HTTP libraries for Java.
 
 ### Hypermedia Types
 
@@ -553,6 +555,7 @@ A curated list of awesome Java frameworks, libraries and software.
 - [SLF4J](https://www.slf4j.org) - Abstraction layer/simple logging facade.
 - [tinylog](http://www.tinylog.org) - Lightweight logging framework with static logger class.
 - [Tracer](https://github.com/zalando/tracer) - Call tracing and log correlation in distributed systems.
+- [blitz4j](https://github.com/Netflix/blitz4j) - Logging framework for fast asynchronous logging.
 
 ### Machine Learning
 
