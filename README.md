@@ -347,6 +347,9 @@ A curated list of awesome Java frameworks, libraries and software.
 - [resilience4j](https://github.com/resilience4j/resilience4j) - Functional fault tolerance library.
 - [ScaleCube](https://github.com/scalecube/scalecube) - Embeddable Cluster-Membership library based on SWIM and gossip protocol.
 - [Zuul](https://github.com/Netflix/zuul) - A gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
+- [JCSP](https://github.com/CSPforJAVA/jcsp) - Communicating Sequential Processes (CSP) for Java.
+- [GPars](https://github.com/GPars/GPars) - Concurrency and parallelism framework for the JVM.
+- [Pipes](https://github.com/tinkerpop/pipes) - Lazy Data Flow Framework.
 
 ### Distributed Transactions
 
