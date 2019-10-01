@@ -157,6 +157,7 @@ A curated list of awesome Java frameworks, libraries and software.
 - [CmdOption](https://github.com/ToToTec/CmdOption) - Simple annotation-driven command line parser.
 - [Commandline](https://github.com/jankroken/commandline) - Annotation based command line parser.
 - [JewelCLI](https://github.com/lexicalscope/jewelcli/) - Annotated interface to automatically parse and present command line arguments.
+- [Jexer](https://gitlab.com/klamonte/jexer) - Advanced console (and Swing) text user interface (TUI) library, with mouse-draggable windows, built-in terminal window manager, and sixel image support. Looks like [Turbo Vision.](https://en.wikipedia.org/wiki/Turbo_Vision)
 
 ### Cluster Management
 
